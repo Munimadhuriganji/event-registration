@@ -34,5 +34,5 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 
-## Result:
+## Result: successful 
 
